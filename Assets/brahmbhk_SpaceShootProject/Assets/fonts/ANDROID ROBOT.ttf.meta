@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 64f8465cd009445b89ac34ddbd8dc784
+timeCreated: 1520812893
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ANDROID ROBOT
+  fontNames:
+  - ANDROID ROBOT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

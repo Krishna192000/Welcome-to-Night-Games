@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 013ada3b97f974da2a7a4bf5a6717e4a
+timeCreated: 1552758642
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hulkbusters
+  fontNames:
+  - Hulkbusters
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

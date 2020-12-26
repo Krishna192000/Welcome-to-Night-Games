@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/brahmbhk_RockPaperScissor/Assets/Scenes/MyScene.unity
+    guid: 21b52f019d88c413d82aa92889884506
+  - enabled: 1
+    path: Assets/brahmbhk_RockPaperScissor/Assets/Scenes/RockPaperScissorScene.unity
+    guid: 060edadd34d144d34853dae454ecb9bd
+  - enabled: 1
+    path: Assets/brahmbhk_ApplePicker/Assets/ApplePickerScene.unity
+    guid: 925f740e423ce4b31af341fc503c8e94
+  - enabled: 1
+    path: Assets/brahmbhk_MemoryGame/Assets/Scene/Level12.unity
+    guid: b7313454182834836b68c87a197bdc14
+  - enabled: 1
+    path: Assets/brahmbhk_MemoryGame/Assets/Scene/Level18.unity
+    guid: ebd4872f64db5429f874058dafca3b6c
+  - enabled: 1
+    path: Assets/brahmbhk_MemoryGame/Assets/Scene/MemoryGameScene.unity
+    guid: aea28b49d3b27471c933046f9089adbb
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/UserMainMenu.unity
+    guid: ae3e4a72bd73a4dc4bb0fbc6454503f3
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/FirstScene.unity
+    guid: cb02bb2bf55d243ac874326794069294
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/MainMenuScene.unity
+    guid: 7aa492060b21a41ed89502c1a548b1fd
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/Gold_Scene.unity
+    guid: 40a212fdc2fa54075a63ac5c99b4c5c6
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/GameLevelScene.unity
+    guid: ae1aa2b69499e418dae423e6c0916247
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/EnemiesMenu.unity
+    guid: 13b2e7f365caa4593a62bfb431b168a6
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/ConfigurationScene.unity
+    guid: 1957d89ddcf94404482c49c6c1d1aec7
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/Bronze_Scene.unity
+    guid: 11b2fd769e2954f4aacee9a6a8286600
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/BackGroundScene.unity
+    guid: 117beffb488fd4eaabe05bfb0ac05550
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/AudioMenu.unity
+    guid: 8de7e50f51e0d43ebb20273abfe13e6e
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/_Scene_0.unity
+    guid: 4735f1b6027714ba483b8c5a0d5c5237
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/Pause_Scene.unity
+    guid: 735c777f42dab44169e5b943d4790942
+  - enabled: 1
+    path: Assets/brahmbhk_SpaceShootProject/Assets/scenes/Silver_Scene.unity
+    guid: 607f6dd68e3e94f8a913a73074bbc163
+  - enabled: 1
+    path: Assets/Scenes/AdminMainMenu.unity
+    guid: dfdd513a701da4c93aa4510e47c81335
+  - enabled: 1
+    path: Assets/Scenes/changePasswordScene.unity
+    guid: 479e461c77a69479da2b9d7cbc6ab23b
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: c670d082770d441e19b316590d4154b8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
